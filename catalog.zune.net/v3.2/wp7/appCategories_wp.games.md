@@ -4,8 +4,10 @@ Client Type is like: WinMobile 7.0, 7.1, 7.5 or 7.8.
 App tag is like: apptag.* (example: apptag.premium)
 Order by is like: (example: downloadRank)
 Cost: (example: "free" or "paid")
+ZuneNetApi's info: (only cost and orderby) "cost={paid|free}&store=Zest&orderby={downloadRank|releaseDate}" (example)
+
 Example response with data: <?xml version="1.0" encoding="utf-8"?>
-<a:feed
+```<a:feed
 	xmlns:a="http://www.w3.org/2005/Atom"
 	xmlns:os="http://a9.com/-/spec/opensearch/1.1/"
 	xmlns="http://schemas.zune.net/catalog/apps/2008/02">
