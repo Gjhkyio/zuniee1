@@ -1,8 +1,6 @@
 # http://catalog.zune.net/v3.2/en-US/hubs/music
 Response (original data):
 ```<?xml version="1.0" encoding="utf-8"?>
-<!-- http://catalog.zune.net/v3.2/en-US/hubs/music -->
-
 <a:feed xmlns:a="http://www.w3.org/2005/Atom"
     xmlns:os="http://a9.com/-/spec/opensearch/1.1/"
     xmlns="http://schemas.zune.net/catalog/music/2007/10">
