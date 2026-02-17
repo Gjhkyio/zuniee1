@@ -1,4 +1,4 @@
-# http://tiles.zune.net/xweb/lx/pic/64x64_tile.jpg
+# tiles dot lol
 Example urls with the original images: 
 https://web.archive.org/web/20120809174124/http://tiles.zune.net/xweb/lx/pic/64x64_tile.jpg
 https://web.archive.org/web/20090513222901/http://social.zune.net/xweb/lx/pic/64x64_tile.gif
