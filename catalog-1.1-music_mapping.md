@@ -1,4 +1,4 @@
-# http://catalog.zune.net/v1.1/music/mapping/amg/*/album
+# http://catalog.zune.net/v1.1/music/mapping/amg/*/album (2008)
 Response (original data):
 ```<?xml version="1.0" encoding="utf-8"?>
 <a:feed
