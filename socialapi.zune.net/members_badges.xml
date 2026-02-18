@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>00000000-0000-0000-0000-000000000000</id>
+  <title>Zune's Badges</title>
+  <link href="https://socialapi.zune.net/Zune/badges" rel="self" />
+
+  <entry>
+    <id>e3f1c8a4-9b2d-4f6e-8c3b-1a2d3e4f5a6b</id>
+    <title>Euyia</title>
+    <summary>restore archive</summary>
+
+    <badge>
+      <typeId>ActiveForumsBadge_Gold</typeId>
+      <image>https://i.imgur.com/dMwIZs8.png</image>
+
+      <media>
+        <id>6b9e2c1f-3a4d-4f0e-b2a9-7c8d9e0f1a2b</id>
+        <type>Application</type>
+      </media>
+    </badge>
+  </entry>
+</feed>
