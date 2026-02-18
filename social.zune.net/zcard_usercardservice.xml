@@ -1,0 +1,81 @@
+<zCard>
+<user uri="http://origin-social.zune.net/zcard/usercardservice.ashx?zunetag=TAG">
+<id>TAG</id>
+<label>
+<![CDATA[ TAG ]]>
+</label>
+<firstName/>
+<status/>
+<image format="tileBig">
+<url>http://tiles.zune.net/xweb/lx/pic/64x64_tile.jpg</url>
+</image>
+<image format="tileSmall">
+<url>http://tiles.zune.net/xweb/lx/pic/64x64_tile.jpg</url>
+</image>
+<manifest>
+<userData>
+<name>
+<![CDATA[ ]]>
+</name>
+<location>
+<![CDATA[ ]]>
+</location>
+<bio>
+<![CDATA[ TAG hasn't created a public bio. ]]>
+</bio>
+<image format="backgroundLarge">
+<url>http://cache-tiles.zune.net/xweb/lx/pic/default_bg.gif</url>
+</image>
+<image format="backgroundSmall">
+<url>http://cache-tiles.zune.net/xweb/lx/pic/default_bg.gif</url>
+</image>
+<totalPlays>
+<![CDATA[ ]]>
+</totalPlays>
+<userId>774df18b-f437-4874-9903-9e6050ee08aa</userId>
+<badges/>
+<following/>
+</userData>
+<destinations>
+<destination type="home">
+<label>
+<![CDATA[ Home ]]>
+</label>
+<url>http://social.zune.net/member/TAG</url>
+<iconURL/>
+</destination>
+<destination type="send_card">
+<label>
+<![CDATA[ Send TAG's card ]]>
+</label>
+<url>http://social.zune.net/my/sendmessage.aspx?AlbumArtUrl=/xweb/lx/pic/Constellation_75x75.jpg&type=Card&zunetag=TAG&ru=http://social.zune.net/member/TAG</url>
+<iconURL/>
+</destination>
+<destination type="send_message">
+<label>
+<![CDATA[ Send TAG a message ]]>
+</label>
+<url>http://social.zune.net/my/sendmessage.aspx?AlbumArtUrl=/xweb/lx/pic/Constellation_75x75.jpg&type=Message&zunetag=TAG&ru=http://social.zune.net/member/TAG</url>
+<iconURL/>
+</destination>
+</destinations>
+<playlists>
+<playlist type="favs">
+<message>
+<![CDATA[ TAG hasn't selected any favorites. ]]>
+</message>
+</playlist>
+<playlist type="recent_spins">
+<message>
+<![CDATA[ TAG hasn't played any songs recently. ]]>
+</message>
+</playlist>
+<playlist type="most_played">
+<message>
+<![CDATA[ TAG hasn't played any songs recently. ]]>
+</message>
+</playlist>
+</playlists>
+</manifest>
+</user>
+</zCard>
