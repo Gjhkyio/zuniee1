@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<messageDetails xmlns="http://schemas.zune.net/messaging">
+  <id>7e366cd9-6d16-4ddf-9dfe-963acdef4450</id>
+  <updated>2026-02-18T21:35:12Z</updated>
+
+  <from>
+    <zuneTag>Zune</zuneTag>
+    <userTile>
+      http://tiles.zune.net/xweb/lx/pic/64x64_tile.jpg
+    </userTile>
+  </from>
+
+  <subject>Microsoft revives long-dead Zune product line</subject>
+
+  <textContent>
+    Tech giant Microsoft announced early Monday morning that a new Zune music player is in the works
+  </textContent>
+
+  <alternateLink>
+    https://rr.noordstar.me/microsoft-revives-long-dead-zune-product--f9628d12
+  </alternateLink>
+</messageDetails>
