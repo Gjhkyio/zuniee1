@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YoshiAsk Inbox</title>
+  <id>urn:uuid:7e366cd9-6d16-4ddf-9dfe-963acdef4450</id>
+  <updated>2026-02-18T21:35:12Z</updated>
+
+  <entry>
+    <id>urn:uuid:7e366cd9-6d16-4ddf-9dfe-963acdef4450</id>
+    <title>Microsoft revives long-dead Zune product line</title>
+    <summary>hi</summary>
+    <updated>2026-02-18T21:35:12Z</updated>
+
+    <author>
+      <name>Zune</name>
+    </author>
+
+    <link rel="alternate"
+          href="https://inbox.zune.net/en-US/messaging/Zune/inbox/details/7e366cd9-6d16-4ddf-9dfe-963acdef4450" />
+
+    <zune:message xmlns:zune="http://schemas.zune.net/messaging">
+      <type>message</type>
+      <wishlist>false</wishlist>
+      <mediaId>7e366cd9-6d16-4ddf-9dfe-963acdef4450</mediaId>
+      <status>hi</status>
+    </zune:message>
+  </entry>
+</feed>
