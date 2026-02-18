@@ -3,111 +3,458 @@
 	xmlns:a="http://www.w3.org/2005/Atom"
 	xmlns:os="http://a9.com/-/spec/opensearch/1.1/"
 	xmlns="http://schemas.zune.net/catalog/apps/2008/02">
-	<a:link rel="self" type="application/atom+xml" href="/v3.2/en-US/clientTypes/WinMobile8/hubTypes/marketplace/hub?" />
-	<a:updated>2013-03-22T03:55:43.371704Z</a:updated>
-	<a:title type="text">marketplace-US-WindowsPhone71</a:title>
-	<a:id>marketplace-US-WindowsPhone71-ALL-ALL</a:id>
-	<impressionId>b84448632d23476ab81048233d83644b</impressionId>
-	<templates>
-		<template>
-			<mimeType>application/uix</mimeType>
-			<templateName>MarketplaceHub</templateName>
-		</template>
-	</templates>
+	<a:link rel="prev" type="application/atom+xml" href="/v3.2/ja-JP/apps?beforeMarker=AAAAAA%3d%3d" />
+	<a:link rel="next" type="application/atom+xml" href="/v3.2/ja-JP/apps?afterMarker=CgAAAA%3d%3d" />
+	<a:link rel="self" type="application/atom+xml" href="/v3.2/ja-JP/apps?" />
+	<a:updated>2016-11-21T17:58:43.142264Z</a:updated>
+	<a:title type="text">List Of Items</a:title>
+	<a:id>tag:catalog.zune.net,2016-11-21:/apps</a:id>
+	<impressionId>9ad17911c4b84bd78a4c6b2780197670:API.BDIGeneric:MMKTBR</impressionId>
 	<a:entry>
-		<a:updated>2013-03-22T03:55:43.371704Z</a:updated>
-		<a:title type="text">List Of Items</a:title>
-		<a:id>urn:uuid:df710cb8-1ead-4105-ab8a-e27692d63590</a:id>
-		<index>1</index>
-		<link>
-			<type>FeatureCollection</type>
-			<target>df710cb8-1ead-4105-ab8a-e27692d63590</target>
-		</link>
-		<editorialItems>
-			<editorialItem>
-				<id>urn:uuid:c8fad9f8-977c-4841-9468-5276f6c9b024</id>
-				<link>
-					<type>Application</type>
-					<target>e0b331a9-85e8-df11-9264-00237de2db9e</target>
-				</link>
-				<title>Who's Near Me LIVE</title>
-				<sequenceNumber>1</sequenceNumber>
-				<image>
-					<id>urn:uuid:4e37b853-0756-42fa-9a17-ed712052b5cf</id>
-				</image>
-				<backgroundImage>
-					<id>urn:uuid:f261276f-d79e-452d-8f21-f2fdf21ee373</id>
-				</backgroundImage>
-			</editorialItem>
-			<editorialItem>
-				<id>urn:uuid:49a0d162-55b0-43f5-b1fc-7eb41f40c627</id>
-				<link>
-					<type>Application</type>
-					<target>8355da61-1ac5-49cd-a753-7f6afed2bb62</target>
-				</link>
-				<title>Fuse</title>
-				<sequenceNumber>2</sequenceNumber>
-				<image>
-					<id>urn:uuid:e04fbb87-e38f-4cf4-bba9-33845e80e47d</id>
-				</image>
-				<backgroundImage>
-					<id>urn:uuid:e1839109-e594-4882-b607-ed49358de1cc</id>
-				</backgroundImage>
-			</editorialItem>
-			<editorialItem>
-				<id>urn:uuid:8902e8de-a15b-4156-8eda-34b6bf5caaf0</id>
-				<link>
-					<type>Application</type>
-					<target>33e84192-f9f3-425a-840d-dd2907808b33</target>
-				</link>
-				<title>Geocaching Live</title>
-				<sequenceNumber>3</sequenceNumber>
-				<image>
-					<id>urn:uuid:52679504-7901-4091-93ba-75e316b320fc</id>
-				</image>
-				<backgroundImage>
-					<id>urn:uuid:d288918a-99be-442a-a95d-a9dbb104d19a</id>
-				</backgroundImage>
-			</editorialItem>
-		</editorialItems>
-		<features>
-			<feature>
-				<id>urn:uuid:c8fad9f8-977c-4841-9468-5276f6c9b024</id>
-				<link>
-					<type>Application</type>
-					<target>e0b331a9-85e8-df11-9264-00237de2db9e</target>
-				</link>
-				<title>Who's Near Me LIVE</title>
-				<sequenceNumber>1</sequenceNumber>
-				<image>
-					<id>urn:uuid:4e37b853-0756-42fa-9a17-ed712052b5cf</id>
-				</image>
-			</feature>
-			<feature>
-				<id>urn:uuid:49a0d162-55b0-43f5-b1fc-7eb41f40c627</id>
-				<link>
-					<type>Application</type>
-					<target>8355da61-1ac5-49cd-a753-7f6afed2bb62</target>
-				</link>
-				<title>Fuse</title>
-				<sequenceNumber>2</sequenceNumber>
-				<image>
-					<id>urn:uuid:e04fbb87-e38f-4cf4-bba9-33845e80e47d</id>
-				</image>
-			</feature>
-			<feature>
-				<id>urn:uuid:8902e8de-a15b-4156-8eda-34b6bf5caaf0</id>
-				<link>
-					<type>Application</type>
-					<target>33e84192-f9f3-425a-840d-dd2907808b33</target>
-				</link>
-				<title>Geocaching Live</title>
-				<sequenceNumber>3</sequenceNumber>
-				<image>
-					<id>urn:uuid:52679504-7901-4091-93ba-75e316b320fc</id>
-				</image>
-			</feature>
-		</features>
+		<a:updated>2016-11-21T17:58:43.142264Z</a:updated>
+		<a:title type="text">OneDrive</a:title>
+		<a:id>urn:uuid:ad543082-80ec-45bb-aa02-ffe7f4182ba8</a:id>
+		<isHardwareCompatible>true</isHardwareCompatible>
+		<sortTitle>OneDrive</sortTitle>
+		<releaseDate>2011-12-13T14:01:43.117000Z</releaseDate>
+		<version>2.3.1.0</version>
+		<averageUserRating>8.409556</averageUserRating>
+		<userRatingCount>293</userRatingCount>
+		<image>
+			<id>urn:uuid:37a3ff20-42b4-4831-ba76-0a9aff6d31ea</id>
+		</image>
+		<hasLiveTile>false</hasLiveTile>
+		<categories>
+			<category>
+				<id>windowsphone.ToolsAndProductivity</id>
+				<title>ãƒ„ãƒ¼ãƒ«ï¼†ãƒ¦ãƒ¼ãƒ†ã‚£ãƒªãƒ†ã‚£</title>
+				<isRoot>True</isRoot>
+			</category>
+		</categories>
+		<tags>
+			<tag>Independent</tag>
+		</tags>
+		<offers>
+			<offer>
+				<offerId>urn:uuid:6a525a87-6789-4a36-911b-3522913cd566</offerId>
+				<mediaInstanceId>urn:uuid:7403f346-a177-488f-998a-e4cc56d40e8e</mediaInstanceId>
+				<clientTypes>
+					<clientType>WindowsPhone71</clientType>
+				</clientTypes>
+				<paymentTypes>
+					<paymentType>Credit Card</paymentType>
+					<paymentType>Mobile Operator</paymentType>
+				</paymentTypes>
+				<store>ZEST</store>
+				<price>0</price>
+				<displayPrice>Â¥0</displayPrice>
+				<priceCurrencyCode>JPY</priceCurrencyCode>
+				<licenseRight>Purchase</licenseRight>
+			</offer>
+		</offers>
+		<publisher>
+			<id>Microsoft Corporation</id>
+			<name>Microsoft Corporation</name>
+		</publisher>
+		<impressionId>9ad17911c4b84bd78a4c6b2780197670:API.BDIGeneric:MMKTBR</impressionId>
+		<k>4</k>
+	</a:entry>
+	<a:entry>
+		<a:updated>2016-11-21T17:58:43.142264Z</a:updated>
+		<a:title type="text">Facebook</a:title>
+		<a:id>urn:uuid:82a23635-5bd9-df11-a844-00237de2db9e</a:id>
+		<isHardwareCompatible>true</isHardwareCompatible>
+		<sortTitle>Facebook</sortTitle>
+		<releaseDate>2010-10-19T13:07:17.103000Z</releaseDate>
+		<version>3.2.6.0</version>
+		<averageUserRating>5.671642</averageUserRating>
+		<userRatingCount>335</userRatingCount>
+		<image>
+			<id>urn:uuid:ca992734-1ad3-4029-8745-d8ca3442faa9</id>
+		</image>
+		<hasLiveTile>true</hasLiveTile>
+		<categories>
+			<category>
+				<id>windowsphone.Social</id>
+				<title>ã‚½ãƒ¼ã‚·ãƒ£ãƒ«</title>
+				<isRoot>True</isRoot>
+			</category>
+		</categories>
+		<tags>
+			<tag>phone.protocol.fb</tag>
+			<tag>phone.protocol.fbconnect</tag>
+			<tag>LockScreen_Background</tag>
+			<tag>LockScreen_Notification_IconCount</tag>
+			<tag>LockScreen_Notification_TextField</tag>
+			<tag>People_Connect</tag>
+			<tag>People_Feeds</tag>
+			<tag>People_Dashboard</tag>
+			<tag>People_Me_CheckIn</tag>
+			<tag>People_Me_Publish</tag>
+			<tag>People_Post</tag>
+			<tag>Photos</tag>
+			<tag>Photos_Extra_Share</tag>
+			<tag>Independent</tag>
+		</tags>
+		<offers>
+			<offer>
+				<offerId>urn:uuid:e04c3f24-e708-42d5-a689-6e43f9f22eee</offerId>
+				<mediaInstanceId>urn:uuid:d334e23b-0939-42b9-b08a-f06ce426dc7a</mediaInstanceId>
+				<clientTypes>
+					<clientType>WindowsPhone71</clientType>
+				</clientTypes>
+				<paymentTypes>
+					<paymentType>Credit Card</paymentType>
+					<paymentType>Mobile Operator</paymentType>
+				</paymentTypes>
+				<store>ZEST</store>
+				<price>0</price>
+				<displayPrice>Â¥0</displayPrice>
+				<priceCurrencyCode>JPY</priceCurrencyCode>
+				<licenseRight>Purchase</licenseRight>
+			</offer>
+		</offers>
+		<publisher>
+			<id>Microsoft Corporation</id>
+			<name>Microsoft Corporation</name>
+		</publisher>
+		<impressionId>9ad17911c4b84bd78a4c6b2780197670:API.BDIGeneric:MMKTBR</impressionId>
+		<k>5</k>
+	</a:entry>
+	<a:entry>
+		<a:updated>2016-11-21T17:58:43.142264Z</a:updated>
+		<a:title type="text">LINE</a:title>
+		<a:id>urn:uuid:a18daaa9-9a1c-4064-91dd-794644cd88e7</a:id>
+		<isHardwareCompatible>true</isHardwareCompatible>
+		<sortTitle>LINE</sortTitle>
+		<releaseDate>2012-06-10T23:58:51.777000Z</releaseDate>
+		<version>4.3.1.702</version>
+		<averageUserRating>5.145997</averageUserRating>
+		<userRatingCount>1274</userRatingCount>
+		<image>
+			<id>urn:uuid:6a12a37f-42c9-4ed8-8425-10fa2ae4d917</id>
+		</image>
+		<hasLiveTile>true</hasLiveTile>
+		<categories>
+			<category>
+				<id>windowsphone.Social</id>
+				<title>ã‚½ãƒ¼ã‚·ãƒ£ãƒ«</title>
+				<isRoot>True</isRoot>
+			</category>
+		</categories>
+		<tags>
+			<tag>phone.fileTypeAssociation.lineauth</tag>
+			<tag>phone.protocol.line</tag>
+			<tag>Photos_Extra_Share</tag>
+			<tag>LockScreen_Notification_IconCount</tag>
+			<tag>LockScreen_Notification_TextField</tag>
+			<tag>Independent</tag>
+		</tags>
+		<offers>
+			<offer>
+				<offerId>urn:uuid:a14b79b6-0a66-4d32-a9ef-2e8afa51baee</offerId>
+				<mediaInstanceId>urn:uuid:1c6ae6f6-a8f9-4c1d-825f-b1bcf3b02540</mediaInstanceId>
+				<clientTypes>
+					<clientType>WindowsPhone71</clientType>
+				</clientTypes>
+				<paymentTypes>
+					<paymentType>Credit Card</paymentType>
+					<paymentType>Mobile Operator</paymentType>
+				</paymentTypes>
+				<store>ZEST</store>
+				<price>0</price>
+				<displayPrice>Â¥0</displayPrice>
+				<priceCurrencyCode>JPY</priceCurrencyCode>
+				<licenseRight>Purchase</licenseRight>
+			</offer>
+		</offers>
+		<publisher>
+			<id>LINE Corporation</id>
+			<name>LINE Corporation</name>
+		</publisher>
+		<impressionId>9ad17911c4b84bd78a4c6b2780197670:API.BDIGeneric:MMKTBR</impressionId>
+		<k>6</k>
+	</a:entry>
+	<a:entry>
+		<a:updated>2016-11-21T17:58:43.142264Z</a:updated>
+		<a:title type="text">gMaps</a:title>
+		<a:id>urn:uuid:7b8bedd5-4368-e011-81d2-78e7d1fa76f8</a:id>
+		<isHardwareCompatible>true</isHardwareCompatible>
+		<sortTitle>gMaps</sortTitle>
+		<releaseDate>2011-04-22T23:54:27.950000Z</releaseDate>
+		<version>3.1.0.1</version>
+		<averageUserRating>8.145786</averageUserRating>
+		<userRatingCount>439</userRatingCount>
+		<image>
+			<id>urn:uuid:c36e8e4e-0475-45e4-bf4b-67a8c630f781</id>
+		</image>
+		<hasLiveTile>true</hasLiveTile>
+		<categories>
+			<category>
+				<id>windowsphone.Travel</id>
+				<title>æ—…è¡Œï¼†ã‚¬ã‚¤ãƒ‰</title>
+				<isRoot>True</isRoot>
+			</category>
+		</categories>
+		<tags>
+			<tag>phone.protocol.gmaps</tag>
+			<tag>phone.protocol.geo</tag>
+			<tag>phone.protocol.ms-drive-to</tag>
+			<tag>phone.protocol.ms-walk-to</tag>
+			<tag>phone.protocol.ms-bike-to</tag>
+			<tag>phone.protocol.ms-transit-to</tag>
+			<tag>Independent</tag>
+		</tags>
+		<offers>
+			<offer>
+				<offerId>urn:uuid:41ba7e71-292f-46bd-9129-b9bdc352e254</offerId>
+				<mediaInstanceId>urn:uuid:a3041a33-0bc9-4f89-99f3-9f6eb133d983</mediaInstanceId>
+				<clientTypes>
+					<clientType>WindowsPhone71</clientType>
+				</clientTypes>
+				<paymentTypes>
+					<paymentType>Credit Card</paymentType>
+					<paymentType>Mobile Operator</paymentType>
+				</paymentTypes>
+				<store>ZEST</store>
+				<price>0</price>
+				<displayPrice>Â¥0</displayPrice>
+				<priceCurrencyCode>JPY</priceCurrencyCode>
+				<licenseRight>Purchase</licenseRight>
+			</offer>
+		</offers>
+		<publisher>
+			<id>DreamTeam-Mobile</id>
+			<name>DreamTeam-Mobile</name>
+		</publisher>
+		<impressionId>9ad17911c4b84bd78a4c6b2780197670:API.BDIGeneric:MMKTBR</impressionId>
+		<k>7</k>
+	</a:entry>
+	<a:entry>
+		<a:updated>2016-11-21T17:58:43.142264Z</a:updated>
+		<a:title type="text">Twitter</a:title>
+		<a:id>urn:uuid:0b792c7c-14dc-df11-a844-00237de2db9e</a:id>
+		<isHardwareCompatible>true</isHardwareCompatible>
+		<sortTitle>Twitter</sortTitle>
+		<releaseDate>2010-10-21T12:30:52.770000Z</releaseDate>
+		<version>2.0.0.3</version>
+		<averageUserRating>5.628571</averageUserRating>
+		<userRatingCount>350</userRatingCount>
+		<image>
+			<id>urn:uuid:7f38dec5-ccc4-45f0-8b4e-78e627836513</id>
+		</image>
+		<hasLiveTile>true</hasLiveTile>
+		<categories>
+			<category>
+				<id>windowsphone.Social</id>
+				<title>ã‚½ãƒ¼ã‚·ãƒ£ãƒ«</title>
+				<isRoot>True</isRoot>
+			</category>
+		</categories>
+		<tags>
+			<tag>Camera_Capture_App</tag>
+			<tag>LockScreen_Background</tag>
+			<tag>LockScreen_Notification_IconCount</tag>
+			<tag>LockScreen_Notification_TextField</tag>
+			<tag>phone.protocol.twitter</tag>
+			<tag>Photos_Extra_Share</tag>
+			<tag>People_Dashboard</tag>
+			<tag>People_Feeds</tag>
+			<tag>People_Me_Publish</tag>
+			<tag>People_Post</tag>
+			<tag>People_Connect</tag>
+			<tag>Photos</tag>
+			<tag>Independent</tag>
+		</tags>
+		<offers>
+			<offer>
+				<offerId>urn:uuid:ed13d503-7385-430f-a551-2b49d5004ca1</offerId>
+				<mediaInstanceId>urn:uuid:b393058f-4e41-4925-8854-57492cc790d9</mediaInstanceId>
+				<clientTypes>
+					<clientType>WindowsPhone71</clientType>
+				</clientTypes>
+				<paymentTypes>
+					<paymentType>Credit Card</paymentType>
+					<paymentType>Mobile Operator</paymentType>
+				</paymentTypes>
+				<store>ZEST</store>
+				<price>0</price>
+				<displayPrice>Â¥0</displayPrice>
+				<priceCurrencyCode>JPY</priceCurrencyCode>
+				<licenseRight>Purchase</licenseRight>
+			</offer>
+		</offers>
+		<publisher>
+			<id>Twitter Inc.</id>
+			<name>Twitter Inc.</name>
+		</publisher>
+		<impressionId>9ad17911c4b84bd78a4c6b2780197670:API.BDIGeneric:MMKTBR</impressionId>
+		<k>8</k>
+	</a:entry>
+	<a:entry>
+		<a:updated>2016-11-21T17:58:43.142264Z</a:updated>
+		<a:title type="text">ä¹—æ›NAVITIME</a:title>
+		<a:id>urn:uuid:ec6a959b-e43f-438f-8c89-f5d20ed6e02e</a:id>
+		<isHardwareCompatible>true</isHardwareCompatible>
+		<sortTitle>ä¹—æ›NAVITIME</sortTitle>
+		<releaseDate>2013-03-24T14:12:43.273000Z</releaseDate>
+		<version>1.0.1.5</version>
+		<averageUserRating>8.741935</averageUserRating>
+		<userRatingCount>62</userRatingCount>
+		<image>
+			<id>urn:uuid:c38a46a8-e52a-486d-ba46-59fc6d0d12d3</id>
+		</image>
+		<hasLiveTile>true</hasLiveTile>
+		<categories>
+			<category>
+				<id>windowsphone.Travel</id>
+				<title>æ—…è¡Œï¼†ã‚¬ã‚¤ãƒ‰</title>
+				<isRoot>True</isRoot>
+			</category>
+		</categories>
+		<tags>
+			<tag>Independent</tag>
+		</tags>
+		<offers>
+			<offer>
+				<offerId>urn:uuid:1d5dfb5d-85e2-4287-bcc8-35b4a6d9de06</offerId>
+				<mediaInstanceId>urn:uuid:2b9a625b-66de-4395-8241-f3a5a168f310</mediaInstanceId>
+				<clientTypes>
+					<clientType>WindowsPhone71</clientType>
+					<clientType>WindowsPhone80</clientType>
+					<clientType>WindowsPhone81</clientType>
+				</clientTypes>
+				<paymentTypes>
+					<paymentType>Credit Card</paymentType>
+					<paymentType>Mobile Operator</paymentType>
+				</paymentTypes>
+				<store>ZEST</store>
+				<price>0</price>
+				<displayPrice>Â¥0</displayPrice>
+				<priceCurrencyCode>JPY</priceCurrencyCode>
+				<licenseRight>Purchase</licenseRight>
+			</offer>
+		</offers>
+		<publisher>
+			<id>NAVITIME JAPAN CO.,LTD.</id>
+			<name>NAVITIME JAPAN CO.,LTD.</name>
+		</publisher>
+		<impressionId>9ad17911c4b84bd78a4c6b2780197670:API.BDIGeneric:MMKTBR</impressionId>
+		<k>10</k>
+	</a:entry>
+	<a:entry>
+		<a:updated>2016-11-21T17:58:43.142264Z</a:updated>
+		<a:title type="text">BBB: App-ocalypse</a:title>
+		<a:id>urn:uuid:d9ff60f1-cece-45ab-80af-7397dd2072c2</a:id>
+		<isHardwareCompatible>true</isHardwareCompatible>
+		<sortTitle>BBB: App-ocalypse</sortTitle>
+		<releaseDate>2012-01-08T10:24:43.500000Z</releaseDate>
+		<version>1.8.0.0</version>
+		<averageUserRating>9.652174</averageUserRating>
+		<userRatingCount>46</userRatingCount>
+		<image>
+			<id>urn:uuid:5c180286-95cb-4b42-8399-cd92bdd685ff</id>
+		</image>
+		<hasLiveTile>false</hasLiveTile>
+		<categories>
+			<category>
+				<id>windowsphone.Games</id>
+				<title>ã‚²ãƒ¼ãƒ </title>
+				<isRoot>True</isRoot>
+			</category>
+			<category>
+				<id>windowsphone.Strategy</id>
+				<title>æˆ¦ç•¥ï¼†ã‚·ãƒŸãƒ¥ãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³</title>
+				<isRoot>False</isRoot>
+				<parentId>windowsphone.Games</parentId>
+			</category>
+		</categories>
+		<tags>
+			<tag>Independent</tag>
+		</tags>
+		<offers>
+			<offer>
+				<offerId>urn:uuid:32de434d-12f7-4f88-ac60-629efd930a1f</offerId>
+				<mediaInstanceId>urn:uuid:806c6000-9e40-4c20-a618-0bac809c9e7f</mediaInstanceId>
+				<clientTypes>
+					<clientType>WindowsPhone71</clientType>
+					<clientType>WindowsPhone80</clientType>
+					<clientType>WindowsPhone81</clientType>
+				</clientTypes>
+				<paymentTypes>
+					<paymentType>Credit Card</paymentType>
+					<paymentType>Mobile Operator</paymentType>
+				</paymentTypes>
+				<store>ZEST</store>
+				<price>0</price>
+				<displayPrice>Â¥0</displayPrice>
+				<priceCurrencyCode>JPY</priceCurrencyCode>
+				<licenseRight>Purchase</licenseRight>
+			</offer>
+		</offers>
+		<publisher>
+			<id>Plainconcepts</id>
+			<name>Plainconcepts</name>
+		</publisher>
+		<impressionId>9ad17911c4b84bd78a4c6b2780197670:API.BDIGeneric:MMKTBR</impressionId>
+		<k>11</k>
+	</a:entry>
+	<a:entry>
+		<a:updated>2016-11-21T17:58:43.142264Z</a:updated>
+		<a:title type="text">Xbox Extras</a:title>
+		<a:id>urn:uuid:31e9b772-1d92-e011-986b-78e7d1fa76f8</a:id>
+		<isHardwareCompatible>true</isHardwareCompatible>
+		<sortTitle>Xbox Extras</sortTitle>
+		<releaseDate>2011-06-09T07:15:59.947000Z</releaseDate>
+		<version>1.6.0.0</version>
+		<averageUserRating>8.285714</averageUserRating>
+		<userRatingCount>35</userRatingCount>
+		<image>
+			<id>urn:uuid:f03e13e7-215a-4dea-8085-3d18bdc3457e</id>
+		</image>
+		<hasLiveTile>false</hasLiveTile>
+		<categories>
+			<category>
+				<id>windowsphone.Games</id>
+				<title>ã‚²ãƒ¼ãƒ </title>
+				<isRoot>True</isRoot>
+			</category>
+			<category>
+				<id>windowsphone.ActionAndAdventure</id>
+				<title>ã‚¢ã‚¯ã‚·ãƒ§ãƒ³ï¼†ã‚¢ãƒ‰ãƒ™ãƒ³ãƒãƒ£ãƒ¼</title>
+				<isRoot>False</isRoot>
+				<parentId>windowsphone.Games</parentId>
+			</category>
+		</categories>
+		<tags>
+			<tag>Premium</tag>
+		</tags>
+		<offers>
+			<offer>
+				<offerId>urn:uuid:f290ee0c-33ac-425e-83ff-935a245c036c</offerId>
+				<mediaInstanceId>urn:uuid:6faa051b-6358-4ca2-a3e9-7e38fced8466</mediaInstanceId>
+				<clientTypes>
+					<clientType>WindowsPhone71</clientType>
+					<clientType>WindowsPhone80</clientType>
+					<clientType>WindowsPhone81</clientType>
+				</clientTypes>
+				<paymentTypes>
+					<paymentType>Credit Card</paymentType>
+					<paymentType>Mobile Operator</paymentType>
+				</paymentTypes>
+				<store>ZEST</store>
+				<price>0</price>
+				<displayPrice>Â¥0</displayPrice>
+				<priceCurrencyCode>JPY</priceCurrencyCode>
+				<licenseRight>Purchase</licenseRight>
+			</offer>
+		</offers>
+		<publisher>
+			<id>Microsoft Studios</id>
+			<name>Microsoft Studios</name>
+		</publisher>
+		<impressionId>9ad17911c4b84bd78a4c6b2780197670:API.BDIGeneric:MMKTBR</impressionId>
+		<k>13</k>
 	</a:entry>
 	<a:author>
 		<a:name>Microsoft Corporation</a:name>
