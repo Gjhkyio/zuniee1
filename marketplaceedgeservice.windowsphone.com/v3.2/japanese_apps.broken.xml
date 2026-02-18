@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<a:feed
+	xmlns:a="http://www.w3.org/2005/Atom"
+	xmlns:os="http://a9.com/-/spec/opensearch/1.1/"
+	xmlns="http://schemas.zune.net/catalog/apps/2008/02">
+	<a:link rel="self" type="application/atom+xml" href="/v3.2/en-US/clientTypes/WinMobile8/hubTypes/marketplace/hub?" />
+	<a:updated>2013-03-22T03:55:43.371704Z</a:updated>
+	<a:title type="text">marketplace-US-WindowsPhone71</a:title>
+	<a:id>marketplace-US-WindowsPhone71-ALL-ALL</a:id>
+	<impressionId>b84448632d23476ab81048233d83644b</impressionId>
+	<templates>
+		<template>
+			<mimeType>application/uix</mimeType>
+			<templateName>MarketplaceHub</templateName>
+		</template>
+	</templates>
+	<a:entry>
+		<a:updated>2013-03-22T03:55:43.371704Z</a:updated>
+		<a:title type="text">List Of Items</a:title>
+		<a:id>urn:uuid:df710cb8-1ead-4105-ab8a-e27692d63590</a:id>
+		<index>1</index>
+		<link>
+			<type>FeatureCollection</type>
+			<target>df710cb8-1ead-4105-ab8a-e27692d63590</target>
+		</link>
+		<editorialItems>
+			<editorialItem>
+				<id>urn:uuid:c8fad9f8-977c-4841-9468-5276f6c9b024</id>
+				<link>
+					<type>Application</type>
+					<target>e0b331a9-85e8-df11-9264-00237de2db9e</target>
+				</link>
+				<title>Who's Near Me LIVE</title>
+				<sequenceNumber>1</sequenceNumber>
+				<image>
+					<id>urn:uuid:4e37b853-0756-42fa-9a17-ed712052b5cf</id>
+				</image>
+				<backgroundImage>
+					<id>urn:uuid:f261276f-d79e-452d-8f21-f2fdf21ee373</id>
+				</backgroundImage>
+			</editorialItem>
+			<editorialItem>
+				<id>urn:uuid:49a0d162-55b0-43f5-b1fc-7eb41f40c627</id>
+				<link>
+					<type>Application</type>
+					<target>8355da61-1ac5-49cd-a753-7f6afed2bb62</target>
+				</link>
+				<title>Fuse</title>
+				<sequenceNumber>2</sequenceNumber>
+				<image>
+					<id>urn:uuid:e04fbb87-e38f-4cf4-bba9-33845e80e47d</id>
+				</image>
+				<backgroundImage>
+					<id>urn:uuid:e1839109-e594-4882-b607-ed49358de1cc</id>
+				</backgroundImage>
+			</editorialItem>
+			<editorialItem>
+				<id>urn:uuid:8902e8de-a15b-4156-8eda-34b6bf5caaf0</id>
+				<link>
+					<type>Application</type>
+					<target>33e84192-f9f3-425a-840d-dd2907808b33</target>
+				</link>
+				<title>Geocaching Live</title>
+				<sequenceNumber>3</sequenceNumber>
+				<image>
+					<id>urn:uuid:52679504-7901-4091-93ba-75e316b320fc</id>
+				</image>
+				<backgroundImage>
+					<id>urn:uuid:d288918a-99be-442a-a95d-a9dbb104d19a</id>
+				</backgroundImage>
+			</editorialItem>
+		</editorialItems>
+		<features>
+			<feature>
+				<id>urn:uuid:c8fad9f8-977c-4841-9468-5276f6c9b024</id>
+				<link>
+					<type>Application</type>
+					<target>e0b331a9-85e8-df11-9264-00237de2db9e</target>
+				</link>
+				<title>Who's Near Me LIVE</title>
+				<sequenceNumber>1</sequenceNumber>
+				<image>
+					<id>urn:uuid:4e37b853-0756-42fa-9a17-ed712052b5cf</id>
+				</image>
+			</feature>
+			<feature>
+				<id>urn:uuid:49a0d162-55b0-43f5-b1fc-7eb41f40c627</id>
+				<link>
+					<type>Application</type>
+					<target>8355da61-1ac5-49cd-a753-7f6afed2bb62</target>
+				</link>
+				<title>Fuse</title>
+				<sequenceNumber>2</sequenceNumber>
+				<image>
+					<id>urn:uuid:e04fbb87-e38f-4cf4-bba9-33845e80e47d</id>
+				</image>
+			</feature>
+			<feature>
+				<id>urn:uuid:8902e8de-a15b-4156-8eda-34b6bf5caaf0</id>
+				<link>
+					<type>Application</type>
+					<target>33e84192-f9f3-425a-840d-dd2907808b33</target>
+				</link>
+				<title>Geocaching Live</title>
+				<sequenceNumber>3</sequenceNumber>
+				<image>
+					<id>urn:uuid:52679504-7901-4091-93ba-75e316b320fc</id>
+				</image>
+			</feature>
+		</features>
+	</a:entry>
+	<a:author>
+		<a:name>Microsoft Corporation</a:name>
+	</a:author>
+</a:feed>
