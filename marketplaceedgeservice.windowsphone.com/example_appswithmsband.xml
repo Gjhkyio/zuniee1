@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<a:feed
+    xmlns:a="http://www.w3.org/2005/Atom"
+    xmlns="http://schemas.zune.net/catalog/apps/2008/02">
+
+    <a:title type="text">apps with ms band</a:title>
+    <a:updated>2026-02-18T06:15:00Z</a:updated>
+
+    <tag>phone.protocol.msband</tag>
+
+    <a:entry>
+        <a:id>urn:uuid:51d19d26-bf21-4589-bbf0-15682f72e045</a:id>
+        <a:title type="text">Furraria</a:title>
+        <hasLiveTile>true</hasLiveTile>
+    </a:entry>
+
+</a:feed>
