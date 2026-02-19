@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<a:feed
+    xmlns:a="http://www.w3.org/2005/Atom"
+    xmlns:os="http://a9.com/-/spec/opensearch/1.1/"
+    xmlns="http://schemas.zune.net/catalog/apps/2008/02">
+
+    <a:title type="text">games</a:title>
+    <a:updated>2026-02-18T06:00:00Z</a:updated>
+
+    <os:totalResults>2453</os:totalResults>
+    <os:startIndex>0</os:startIndex>
+    <os:itemsPerPage>50</os:itemsPerPage>
+
+    <category>
+        <id>windowsphone.Games</id>
+        <title>games</title>
+        <isRoot>true</isRoot>
+    </category>
+
+    <a:entry>
+        <a:id>urn:uuid:51d19d26-bf21-4589-bbf0-15682f72e045</a:id>
+        <a:title type="text">Minceraft</a:title>
+        <version>1.9.0.0</version>
+        <averageUserRating>4.6</averageUserRating>
+        <price>6.99</price>
+    </a:entry>
+
+</a:feed>
