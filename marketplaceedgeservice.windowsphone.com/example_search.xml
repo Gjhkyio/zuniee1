@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<a:feed
+    xmlns:a="http://www.w3.org/2005/Atom"
+    xmlns:os="http://a9.com/-/spec/opensearch/1.1/"
+    xmlns="http://schemas.zune.net/catalog/apps/2008/02">
+
+    <a:title type="text">search results</a:title>
+    <a:id>tag:catalog.zune.net,2026:/apps/search</a:id>
+    <a:updated>2026-02-18T05:00:00Z</a:updated>
+
+    <os:totalResults>2</os:totalResults>
+    <os:startIndex>0</os:startIndex>
+    <os:itemsPerPage>50</os:itemsPerPage>
+
+    <searchTerm>minecraft</searchTerm>
+
+    <a:entry>
+        <a:id>urn:uuid:51d19d26-bf21-4589-bbf0-15682f72e045</a:id>
+        <a:title type="text">Minceraft 2</a:title>
+        <version>1.9.0.0</version>
+        <averageUserRating>4.6</averageUserRating>
+        <userRatingCount>15234</userRatingCount>
+        <image>
+            <id>urn:uuid:6073b2b5-7ac6-42f8-8936-da591275602c</id>
+        </image>
+        <price>6.99</price>
+        <displayPrice>$6.99</displayPrice>
+        <publisher>
+            <name>Molang Labs</name>
+        </publisher>
+    </a:entry>
+
+    <a:entry>
+        <a:id>urn:uuid:93a6bdcc-6a9b-4bb5-8c8b-47e7c49d2f01</a:id>
+        <a:title type="text">Minceraft 2 Skin Studio</a:title>
+        <version>2.3.1.0</version>
+        <averageUserRating>4.2</averageUserRating>
+        <userRatingCount>2401</userRatingCount>
+        <image>
+            <id>urn:uuid:9999b2b5-7ac6-42f8-8936-da5912999999</id>
+        </image>
+        <price>0.00</price>
+        <displayPrice>Free</displayPrice>
+        <publisher>
+            <name>Pixel Tools</name>
+        </publisher>
+    </a:entry>
+
+</a:feed>
