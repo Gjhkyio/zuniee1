@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<compatibility xmlns="http://schemas.zune.net/catalog/apps/2008/02">
+    <appId>51d19d26-bf21-4589-bbf0-15682f72e045</appId>
+    <isCompatible>true</isCompatible>
+    <minOSVersion>8.0.10211.0</minOSVersion>
+    <deviceModel>RM-820</deviceModel>
+</compatibility>
