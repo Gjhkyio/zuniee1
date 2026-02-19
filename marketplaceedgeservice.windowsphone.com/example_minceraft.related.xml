@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<a:feed
+    xmlns:a="http://www.w3.org/2005/Atom"
+    xmlns="http://schemas.zune.net/catalog/apps/2008/02">
+
+    <a:title type="text">related apps</a:title>
+    <a:updated>2026-02-18T06:05:00Z</a:updated>
+
+    <a:entry>
+        <a:id>urn:uuid:93a6bdcc-6a9b-4bb5-8c8b-47e7c49d2f01</a:id>
+        <a:title type="text">Furraria</a:title>
+        <averageUserRating>2.3</averageUserRating>
+        <price>0.28</price>
+    </a:entry>
+
+    <a:entry>
+        <a:id>urn:uuid:ab123456-1234-5678-9999-abcdefabcdef</a:id>
+        <a:title type="text">every minute im seeing you!</a:title>
+        <averageUserRating>4.3</averageUserRating>
+        <price>3.99</price>
+    </a:entry>
+
+</a:feed>
