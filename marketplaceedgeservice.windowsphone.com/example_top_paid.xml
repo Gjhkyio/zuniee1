@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<a:feed
+    xmlns:a="http://www.w3.org/2005/Atom"
+    xmlns="http://schemas.zune.net/catalog/apps/2008/02">
+
+    <a:title type="text">top paid apps</a:title>
+    <a:updated>2026-02-18T05:30:00Z</a:updated>
+
+    <a:entry>
+        <rank>1</rank>
+        <a:title type="text">Minceraft</a:title>
+        <price>6.99</price>
+    </a:entry>
+
+    <a:entry>
+        <rank>2</rank>
+        <a:title type="text">Noob Vietnam Brids</a:title>
+        <price>0.50</price>
+    </a:entry>
+
+</a:feed>
